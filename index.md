@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# XandalS.github.io
 
-You can use the [editor on GitHub](https://github.com/XandalS/XandalS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello. My name is Xandal S and I am a prospective Game Developer.
+I am currently in a programming class. Here are some of the projects I have worked on while in the class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1# [XAML Tip Calculator](https://github.com/XandalS/XAML-Tip-Calculator-Practice) An interactive calculator that calculates how much the tip is based on the total price along with the percentage you want to tip
 
-### Markdown
+2# [Practice Trivia game](https://github.com/XandalS/Triva-Game-Practice) A small trivia game that responds to what answers you give.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3# [Signs of Life](https://github.com/XandalS/Midterm-Signs-of-Life) A mystery text adventure game where you play a detective investigating the paranormal dissapearance of an entire island.
 
-```markdown
-Syntax highlighted code block
+4# [Random Hero Fighter](https://github.com/XandalS/Random-Hero-Fighter) A random number generator with heros attached to it.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XandalS/XandalS.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5# [Cypher](https://github.com/XandalS/Cypher) A simple encryptor and Decryptor software for hiding messages.
