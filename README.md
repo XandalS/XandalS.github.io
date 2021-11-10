@@ -1,4 +1,5 @@
 # XandalS.github.io
+theme: jekyll-theme-architect 
 
 Hello. My name is Xandal S and I am a prospective Game Developer.
 I am currently in a programming class. Here are some of the projects I have worked on while in the class.
