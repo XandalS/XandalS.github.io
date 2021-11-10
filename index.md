@@ -4,6 +4,7 @@ Hello. My name is Xandal S and I am a prospective Game Developer.
 I am currently in a programming class. Here are some of the projects I have worked on while in the class.
 
 1# [XAML Tip Calculator](https://github.com/XandalS/XAML-Tip-Calculator-Practice) An interactive calculator that calculates how much the tip is based on the total price along with the percentage you want to tip 
+
 ![XAML UML](https://user-images.githubusercontent.com/93745805/141206065-81d17d90-3895-4391-94d2-72d5c318074d.png)
 
 
